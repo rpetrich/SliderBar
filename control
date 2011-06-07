@@ -1,0 +1,9 @@
+Package: com.rpetrich.sliderbar
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 0.1
+Description: Quick scrolling in all table views
+Name: SliderBar
+Depends: firmware (>= 3.0), mobilesubstrate
+Author: Ryan Petrich
